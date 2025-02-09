@@ -1,4 +1,4 @@
-# Customer-Segmentation-Project
+# Customer-Segmentation-Using-clustering-Algorithms
 customer segmentation model using clustering algorithms for Market Basket Analysis based on their purchasing behavior using unsupervised learning techniques
 
 ![Customer Segmentation](https://i.postimg.cc/rF5PZ3g7/cust-seg.webp)
